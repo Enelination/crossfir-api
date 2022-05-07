@@ -1,5 +1,6 @@
 {
   "name": "crossfit-api",
+  "authour": "Emmanuel Akuffo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
